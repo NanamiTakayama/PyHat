@@ -2,7 +2,7 @@
   "name": "python-app",
   "version": "",
   "description": "python - raspberry-pi",
-  "main": "app.py",
+  "main": "demo.py",
   "author": "",
   "license": "",
   "language":"python",
