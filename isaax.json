@@ -2,7 +2,7 @@
   "name": "python-app",
   "version": "",
   "description": "python - raspberry-pi",
-  "main": "demo.py",
+  "main": "toggle.py",
   "author": "",
   "license": "",
   "language":"python",
