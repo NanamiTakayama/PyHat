@@ -2,7 +2,7 @@
   "name": "python-app",
   "version": "",
   "description": "python - raspberry-pi",
-  "main": "toggle.py",
+  "main": "sudo toggle.py",
   "author": "",
   "license": "",
   "language":"python",
