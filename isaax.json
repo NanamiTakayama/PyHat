@@ -2,12 +2,12 @@
   "name": "demo",
   "version": "",
   "description": "python - raspberry-pi",
-  "main": "random_blinky.py",
+  "main": "demo.py",
   "author": "",
   "license": "",
   "language":"python",
   "scripts": {
-     "start": "python -u random_blinky.py"
+     "start": "python -u demo.py"
     },
    "dependency": null
 }
