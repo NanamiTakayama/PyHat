@@ -2,12 +2,12 @@
   "name": "demo",
   "version": "",
   "description": "python - raspberry-pi",
-  "main": "drop.py",
+  "main": "random_sparkles.py",
   "author": "",
   "license": "",
   "language":"python",
   "scripts": {
-     "start": "python -u drop.py"
+     "start": "python -u random_sparkles.py"
     },
    "dependency": null
 }
