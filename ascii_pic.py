@@ -20,14 +20,14 @@ width,height=unicorn.get_shape()
 # Every line needs to be exactly 8 characters
 # but you can have as many lines as you like.
 ASCIIPIC = [
-     "  X  X  "
+    "  X  X  "
     ,"        "
     ,"X      X"
     ," XXXXXX "
     ,"        "
     ,"   XX   "
     ,"  X  X  "
-    ,"X  XX X "
+    ,"X  XX  X"
     ]
 i = -1
 
