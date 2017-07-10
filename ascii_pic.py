@@ -25,8 +25,9 @@ ASCIIPIC = [
     ,"X      X"
     ," XXXXXX "
     ,"        "
-    ,"        "
-    ,"        "
+    ,"   XX   "
+    ,"  X  X  "
+    ,"X  XX X "
     ]
 i = -1
 
@@ -40,7 +41,7 @@ def step():
             if chr == ' ':
                 unicorn.set_pixel(w, h, 0, 0, 0)
             else:
-                unicorn.set_pixel(w, h, 255, 0, 0)
+                unicorn.set_pixel(w, h, 10, 80, 0)
     unicorn.show()
 
 while True:
