@@ -13,6 +13,8 @@ If you're using a Unicorn HAT and only half the screen lights up,
 edit this example and  change 'unicorn.AUTO' to 'unicorn.HAT' below.
 """)
 
+print("HELLO")
+
 unicorn.set_layout(unicorn.AUTO)
 unicorn.rotation(0)
 unicorn.brightness(0.5)
