@@ -2,12 +2,12 @@
   "name": "demo",
   "version": "",
   "description": "python - raspberry-pi",
-  "main": "demo.py",
+  "main": "snow.py",
   "author": "",
   "license": "",
   "language":"python",
   "scripts": {
-     "start": "python -u demo.py"
+     "start": "python -u snow.py"
     },
    "dependency": null
 }
