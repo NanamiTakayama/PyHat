@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "version": "",
+  "version": "0",
   "description": "python - raspberry-pi",
   "main": "rainbow.py",
   "author": "",
